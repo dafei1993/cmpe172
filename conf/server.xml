@@ -104,7 +104,7 @@
     protocol="org.apache.coyote.http11.Http11NioProtocol"
     port="8443" maxThreads="200"
     scheme="https" secure="true" SSLEnabled="true"
-    keystoreFile="/Users/apple/.keystore" keystorePass="19931207aA"
+    keystoreFile="/Users/apple/xueliKey" keystorePass="19931207aA"
     clientAuth="false" sslProtocol="TLS"/>
     <!--<UpgradeProtocol className="org.apache.coyote.http2.Http2Protocol" />
         <SSLHostConfig>
